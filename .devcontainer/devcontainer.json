@@ -1,0 +1,4 @@
+{
+    "name": "Raylib-Faux-3D",
+    "postCreateCommand": "bash .devcontainer/setup-raylib.sh"
+}
